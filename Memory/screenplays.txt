@@ -1,0 +1,51 @@
+URL	title	name	path	id
+https://stephenfollows.com/resource-docs/scripts/eternal_sunshine_of_the_spotless_mind.pdf	Eternal Sunshine Of The Spotless Mind	Eternal.Sunshine.Of.The.Spotless.Mind	PDF_Downloads/Eternal.Sunshine.Of.The.Spotless.Mind.pdf	1
+http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Good_Will_Hunting.pdf	Good Will Hunting	Good.Will.Hunting	PDF_Downloads/Good.Will.Hunting.pdf	2
+http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Jerry_Maguire.pdf	Jerry Maguire	Jerry.Maguire	PDF_Downloads/Jerry.Maguire.pdf	3
+http://www.dailyscript.com/scripts/Little_Children-script.pdf	Little Children	Little.Children	PDF_Downloads/Little.Children.pdf	4
+http://www.dailyscript.com/scripts/lost_in_translation.pdf	Lost In Translation	Lost.In.Translation	PDF_Downloads/Lost.In.Translation.pdf	5
+http://www.universalpicturesawards.com/site-content/uploads/2015/08/Straight-Outta-Compton-Screenplay.pdf	Straight Outta Compton	Straight.Outta.Compton	PDF_Downloads/Straight.Outta.Compton.pdf	6
+http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Truman_Show,_The.pdf	The Truman Show	The.Truman.Show	PDF_Downloads/The.Truman.Show.pdf	7
+http://www.screenplaydb.com/film/scripts/up_in_the_air.pdf	Up In The Air	Up.In.The.Air	PDF_Downloads/Up.In.The.Air.pdf	8
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Visitor-The.compressed-ilovepdf-compressed.pdf	The Visitor	The.Visitor	PDF_Downloads/The.Visitor.pdf	9
+http://www.sonyclassics.com/awards-information/whiplash_screenplay.pdf	Whiplash	Whiplash	PDF_Downloads/Whiplash.pdf	10
+http://www.cinefile.biz/script/500daysofsummer.pdf	(500) Days Of Summer	X.500..Days.Of.Summer	PDF_Downloads/X.500..Days.Of.Summer.pdf	11
+http://screenplayexplorer.com/wp-content/scripts/Bridesmaids_Screenplay.pdf	Bridesmaids	Bridesmaids	PDF_Downloads/Bridesmaids.pdf	12
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/The-Hangover.pdf	The Hangover	The.Hangover	PDF_Downloads/The.Hangover.pdf	13
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Hannah-and-Her-Sisters.pdf	Hannah And Her Sisters	Hannah.And.Her.Sisters	PDF_Downloads/Hannah.And.Her.Sisters.pdf	14
+http://www.dailyscript.com/scripts/mean_girls.pdf	Mean Girls	Mean.Girls	PDF_Downloads/Mean.Girls.pdf	15
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Planes-Trains-Automobiles-min.pdf	Planes, Trains & Automobiles	Planes..Trains...Automobiles	PDF_Downloads/Planes..Trains...Automobiles.pdf	16
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Sideways-min.pdf	Sideways	Sideways	PDF_Downloads/Sideways.pdf	17
+http://www.dailyscript.com/scripts/Stranger-Than-Fiction.pdf	Stranger Than Fiction	Stranger.Than.Fiction	PDF_Downloads/Stranger.Than.Fiction.pdf	18
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Theres-Something-About-Mary-min.pdf	There’s Something About Mary	There.s.Something.About.Mary	PDF_Downloads/There.s.Something.About.Mary.pdf	19
+http://www.dailyscript.com/scripts/whenharrymesally.pdf	When Harry Met Sally	When.Harry.Met.Sally	PDF_Downloads/When.Harry.Met.Sally.pdf	20
+http://screenplayexplorer.com/wp-content/scripts/Bourne-Ultimatum.pdf	The Bourne Ultimatum	The.Bourne.Ultimatum	PDF_Downloads/The.Bourne.Ultimatum.pdf	21
+http://www.joblo.com/scripts/The_Dark_Knight.pdf	The Dark Knight	The.Dark.Knight	PDF_Downloads/The.Dark.Knight.pdf	22
+http://www.screenplaydb.com/film/scripts/die_hard_screenplay.pdf	Die Hard	Die.Hard	PDF_Downloads/Die.Hard.pdf	23
+http://www.dailyscript.com/scripts/oceans_11.pdf	Ocean’s Eleven	Ocean.s.Eleven	PDF_Downloads/Ocean.s.Eleven.pdf	24
+http://www.fempiror.com/otherscripts/LordoftheRings1-FOTR.pdf	The Lord Of The Rings: The Fellowship Of The Ring	The.Lord.Of.The.Rings..The.Fellowship.Of.The.Ring	PDF_Downloads/The.Lord.Of.The.Rings..The.Fellowship.Of.The.Ring.pdf	25
+http://www.dailyscript.com/scripts/inside-out-screenplay.pdf	Inside Out	Inside.Out	PDF_Downloads/Inside.Out.pdf	26
+https://stephenfollows.com/resource-docs/scripts/Lone%20Survivor.pdf	Lone Survivor	Lone.Survivor	PDF_Downloads/Lone.Survivor.pdf	27
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Looper-min.pdf	Looper	Looper	PDF_Downloads/Looper.pdf	28
+http://www.dailyscript.com/scripts/the_matrix.pdf	The Matrix	The.Matrix	PDF_Downloads/The.Matrix.pdf	29
+http://www.joblo.com/scripts/Zombieland.pdf	Zombieland	Zombieland	PDF_Downloads/Zombieland.pdf	30
+http://www.dailyscript.com/scripts/collateral_101203.pdf	Collateral	Collateral	PDF_Downloads/Collateral.pdf	31
+https://indiegroundfilms.files.wordpress.com/2014/01/departed-the-sept-06.pdf	The Departed	The.Departed	PDF_Downloads/The.Departed.pdf	32
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Flightplan-min.pdf	Flightplan	Flightplan	PDF_Downloads/Flightplan.pdf	33
+http://www.universalpicturesawards.com/site-content/uploads/2016/09/THE-GIRL-ON-THE-TRAIN-Screenplay.pdf	The Girl On The Train	The.Girl.On.The.Train	PDF_Downloads/The.Girl.On.The.Train.pdf	34
+http://www.cinemanews.gr/v5/oscars2015/scripts/250889715.pdf	Nightcrawler	Nightcrawler	PDF_Downloads/Nightcrawler.pdf	35
+http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-No_Country_for_Old_Men.pdf	No Country For Old Men	No.Country.For.Old.Men	PDF_Downloads/No.Country.For.Old.Men.pdf	36
+http://pdl.warnerbros.com/wbmovies/awards2013/screenplay/prisoners/prisoners_sp.pdf	Prisoners	Prisoners	PDF_Downloads/Prisoners.pdf	37
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Reservoir-Dogs-min.pdf	Reservoir Dogs	Reservoir.Dogs	PDF_Downloads/Reservoir.Dogs.pdf	38
+http://www.dailyscript.com/scripts/Training_Day.pdf	Training Day	Training.Day	PDF_Downloads/Training.Day.pdf	39
+http://www.screenwrite.in/Screenplays/Usual%20Suspects,%20The.pdf	The Usual Suspects	The.Usual.Suspects	PDF_Downloads/The.Usual.Suspects.pdf	40
+http://www.avpgalaxy.net/files/scripts/alien-1978-10-04.pdf	Alien	Alien	PDF_Downloads/Alien.pdf	41
+http://www.horrorlair.com/movies/scripts/dawnofthedead_2004.pdf	Dawn Of The Dead (2004)	Dawn.Of.The.Dead..2004.	PDF_Downloads/Dawn.Of.The.Dead..2004..pdf	42
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Final-Destination-min.pdf	Final Destination	Final.Destination	PDF_Downloads/Final.Destination.pdf	43
+http://la-screenwriter.com/wp-content/uploads/2016/03/IT-FOLLOWS-2015-by-David-Robert-Mitchell.pdf	It Follows	It.Follows	PDF_Downloads/It.Follows.pdf	44
+http://www.screenplaydb.com/film/scripts/Jennifers%20Body.pdf	Jennifer’s Body	Jennifer.s.Body	PDF_Downloads/Jennifer.s.Body.pdf	45
+http://www.dailyscript.com/scripts/Omen.pdf	The Omen	The.Omen	PDF_Downloads/The.Omen.pdf	46
+http://www.horrorlair.com/movies/scripts/The_Ring.pdf	The Ring	The.Ring	PDF_Downloads/The.Ring.pdf	47
+https://indiegroundfilms.files.wordpress.com/2014/01/saw.pdf	Saw	Saw	PDF_Downloads/Saw.pdf	48
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Scream-min.pdf	Scream	Scream	PDF_Downloads/Scream.pdf	49
+http://www.lexwilliford.com/Workshops/Screenwriting/Scripts/Adobe%20Acrobat%20Scripts/Sixth%20Sense.pdf	The Sixth Sense	The.Sixth.Sense	PDF_Downloads/The.Sixth.Sense.pdf	50

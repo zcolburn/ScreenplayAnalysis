@@ -1,0 +1,49 @@
+URL	title	name	path	id	rating	votes
+https://stephenfollows.com/resource-docs/scripts/eternal_sunshine_of_the_spotless_mind.pdf	Eternal Sunshine Of The Spotless Mind	Eternal.Sunshine.Of.The.Spotless.Mind	PDF_Downloads/Eternal.Sunshine.Of.The.Spotless.Mind.pdf	1	8.3	745396
+http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Good_Will_Hunting.pdf	Good Will Hunting	Good.Will.Hunting	PDF_Downloads/Good.Will.Hunting.pdf	2	8.3	685886
+http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Jerry_Maguire.pdf	Jerry Maguire	Jerry.Maguire	PDF_Downloads/Jerry.Maguire.pdf	3	7.3	206247
+http://www.dailyscript.com/scripts/Little_Children-script.pdf	Little Children	Little.Children	PDF_Downloads/Little.Children.pdf	4	7.6	96819
+http://www.dailyscript.com/scripts/lost_in_translation.pdf	Lost In Translation	Lost.In.Translation	PDF_Downloads/Lost.In.Translation.pdf	5	7.8	348893
+http://www.universalpicturesawards.com/site-content/uploads/2015/08/Straight-Outta-Compton-Screenplay.pdf	Straight Outta Compton	Straight.Outta.Compton	PDF_Downloads/Straight.Outta.Compton.pdf	6	7.9	149616
+http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Truman_Show,_The.pdf	The Truman Show	The.Truman.Show	PDF_Downloads/The.Truman.Show.pdf	7	8.1	751370
+http://www.screenplaydb.com/film/scripts/up_in_the_air.pdf	Up In The Air	Up.In.The.Air	PDF_Downloads/Up.In.The.Air.pdf	8	7.4	285228
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Visitor-The.compressed-ilovepdf-compressed.pdf	The Visitor	The.Visitor	PDF_Downloads/The.Visitor.pdf	9	5.7	191944
+http://www.sonyclassics.com/awards-information/whiplash_screenplay.pdf	Whiplash	Whiplash	PDF_Downloads/Whiplash.pdf	10	8.5	515822
+http://www.cinefile.biz/script/500daysofsummer.pdf	(500) Days Of Summer	X.500..Days.Of.Summer	PDF_Downloads/X.500..Days.Of.Summer.pdf	11	7.7	411961
+http://screenplayexplorer.com/wp-content/scripts/Bridesmaids_Screenplay.pdf	Bridesmaids	Bridesmaids	PDF_Downloads/Bridesmaids.pdf	12	6.8	234027
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/The-Hangover.pdf	The Hangover	The.Hangover	PDF_Downloads/The.Hangover.pdf	13	7.7	628103
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Hannah-and-Her-Sisters.pdf	Hannah And Her Sisters	Hannah.And.Her.Sisters	PDF_Downloads/Hannah.And.Her.Sisters.pdf	14	8	57624
+http://www.dailyscript.com/scripts/mean_girls.pdf	Mean Girls	Mean.Girls	PDF_Downloads/Mean.Girls.pdf	15	7	273812
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Planes-Trains-Automobiles-min.pdf	Planes, Trains & Automobiles	Planes..Trains...Automobiles	PDF_Downloads/Planes..Trains...Automobiles.pdf	16	7.6	100564
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Sideways-min.pdf	Sideways	Sideways	PDF_Downloads/Sideways.pdf	17	7.5	159774
+http://www.dailyscript.com/scripts/Stranger-Than-Fiction.pdf	Stranger Than Fiction	Stranger.Than.Fiction	PDF_Downloads/Stranger.Than.Fiction.pdf	18	7.6	198247
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Theres-Something-About-Mary-min.pdf	There’s Something About Mary	There.s.Something.About.Mary	PDF_Downloads/There.s.Something.About.Mary.pdf	19	7.1	261566
+http://www.dailyscript.com/scripts/whenharrymesally.pdf	When Harry Met Sally	When.Harry.Met.Sally	PDF_Downloads/When.Harry.Met.Sally.pdf	20	7.6	163260
+http://screenplayexplorer.com/wp-content/scripts/Bourne-Ultimatum.pdf	The Bourne Ultimatum	The.Bourne.Ultimatum	PDF_Downloads/The.Bourne.Ultimatum.pdf	21	8.1	542787
+http://www.joblo.com/scripts/The_Dark_Knight.pdf	The Dark Knight	The.Dark.Knight	PDF_Downloads/The.Dark.Knight.pdf	22	9	1861768
+http://www.screenplaydb.com/film/scripts/die_hard_screenplay.pdf	Die Hard	Die.Hard	PDF_Downloads/Die.Hard.pdf	23	8.2	654541
+http://www.dailyscript.com/scripts/oceans_11.pdf	Ocean’s Eleven	Ocean.s.Eleven	PDF_Downloads/Ocean.s.Eleven.pdf	24	7.8	438600
+http://www.fempiror.com/otherscripts/LordoftheRings1-FOTR.pdf	The Lord Of The Rings: The Fellowship Of The Ring	The.Lord.Of.The.Rings..The.Fellowship.Of.The.Ring	PDF_Downloads/The.Lord.Of.The.Rings..The.Fellowship.Of.The.Ring.pdf	25	8.8	1367817
+http://www.dailyscript.com/scripts/inside-out-screenplay.pdf	Inside Out	Inside.Out	PDF_Downloads/Inside.Out.pdf	26	8.2	450134
+https://stephenfollows.com/resource-docs/scripts/Lone%20Survivor.pdf	Lone Survivor	Lone.Survivor	PDF_Downloads/Lone.Survivor.pdf	27	7.5	227693
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Looper-min.pdf	Looper	Looper	PDF_Downloads/Looper.pdf	28	7.4	466505
+http://www.dailyscript.com/scripts/the_matrix.pdf	The Matrix	The.Matrix	PDF_Downloads/The.Matrix.pdf	29	8.7	1356636
+http://www.dailyscript.com/scripts/collateral_101203.pdf	Collateral	Collateral	PDF_Downloads/Collateral.pdf	31	7.6	314737
+https://indiegroundfilms.files.wordpress.com/2014/01/departed-the-sept-06.pdf	The Departed	The.Departed	PDF_Downloads/The.Departed.pdf	32	8.5	974057
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Flightplan-min.pdf	Flightplan	Flightplan	PDF_Downloads/Flightplan.pdf	33	6.3	135303
+http://www.universalpicturesawards.com/site-content/uploads/2016/09/THE-GIRL-ON-THE-TRAIN-Screenplay.pdf	The Girl On The Train	The.Girl.On.The.Train	PDF_Downloads/The.Girl.On.The.Train.pdf	34	6.5	122178
+http://www.cinemanews.gr/v5/oscars2015/scripts/250889715.pdf	Nightcrawler	Nightcrawler	PDF_Downloads/Nightcrawler.pdf	35	7.9	354089
+http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-No_Country_for_Old_Men.pdf	No Country For Old Men	No.Country.For.Old.Men	PDF_Downloads/No.Country.For.Old.Men.pdf	36	8.1	688605
+http://pdl.warnerbros.com/wbmovies/awards2013/screenplay/prisoners/prisoners_sp.pdf	Prisoners	Prisoners	PDF_Downloads/Prisoners.pdf	37	8.1	459656
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Reservoir-Dogs-min.pdf	Reservoir Dogs	Reservoir.Dogs	PDF_Downloads/Reservoir.Dogs.pdf	38	8.3	744859
+http://www.dailyscript.com/scripts/Training_Day.pdf	Training Day	Training.Day	PDF_Downloads/Training.Day.pdf	39	7.7	331799
+http://www.avpgalaxy.net/files/scripts/alien-1978-10-04.pdf	Alien	Alien	PDF_Downloads/Alien.pdf	41	8.5	642246
+http://www.horrorlair.com/movies/scripts/dawnofthedead_2004.pdf	Dawn Of The Dead (2004)	Dawn.Of.The.Dead..2004.	PDF_Downloads/Dawn.Of.The.Dead..2004..pdf	42	7.3	208090
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Final-Destination-min.pdf	Final Destination	Final.Destination	PDF_Downloads/Final.Destination.pdf	43	6.7	196431
+http://la-screenwriter.com/wp-content/uploads/2016/03/IT-FOLLOWS-2015-by-David-Robert-Mitchell.pdf	It Follows	It.Follows	PDF_Downloads/It.Follows.pdf	44	6.9	152361
+http://www.screenplaydb.com/film/scripts/Jennifers%20Body.pdf	Jennifer’s Body	Jennifer.s.Body	PDF_Downloads/Jennifer.s.Body.pdf	45	5.1	99133
+http://www.dailyscript.com/scripts/Omen.pdf	The Omen	The.Omen	PDF_Downloads/The.Omen.pdf	46	7.6	89642
+http://www.horrorlair.com/movies/scripts/The_Ring.pdf	The Ring	The.Ring	PDF_Downloads/The.Ring.pdf	47	4.5	26915
+https://indiegroundfilms.files.wordpress.com/2014/01/saw.pdf	Saw	Saw	PDF_Downloads/Saw.pdf	48	7.7	328477
+http://www.scriptreaderpro.com/wp-content/uploads/2017/10/Scream-min.pdf	Scream	Scream	PDF_Downloads/Scream.pdf	49	7.3	25660
+http://www.lexwilliford.com/Workshops/Screenwriting/Scripts/Adobe%20Acrobat%20Scripts/Sixth%20Sense.pdf	The Sixth Sense	The.Sixth.Sense	PDF_Downloads/The.Sixth.Sense.pdf	50	8.1	775209
